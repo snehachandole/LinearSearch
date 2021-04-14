@@ -1,7 +1,7 @@
 public class LinearSearch {
     public static void main(String[] args) {
-        int value = 5;
-        int inputData[] = {1, 2, 3, 4, 5};
+        int value = 52;
+        int inputData[] = {11, 12, 13, 14, 15};
         boolean found = false;
 
         for (int i = 0; i < 5; i++) {
